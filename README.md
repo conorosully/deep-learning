@@ -1,5 +1,5 @@
 # deep-learning
-Various deep learning experiments. Not all the files in this repo are mine. My original code files can be found in the src folder and are listed below:
+Various deep learning experiments. My original notebooks can be found in the src folder and are listed below:
 
 <table>
   <tr>
