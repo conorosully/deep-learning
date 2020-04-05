@@ -12,6 +12,6 @@ Various deep learning experiments. My original notebooks can be found in the src
   </tr>
   <tr>
     <td>DNN Classification</td>
-    <td>Compare the performance of logistic regression to a DNN Classififier on a non-linear dataset</td>
+    <td>Compare the performance of logistic regression to a DNN Classifier on a non-linear dataset</td>
   </tr>
 </table>
