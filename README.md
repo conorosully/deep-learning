@@ -3,12 +3,12 @@ Various deep learning experiments. My original notebooks can be found in the src
 
 <table>
   <tr>
-    <th>DNN Regression</th>
-    <th><span style="font-weight:bold">Compare the performance of a linear regression model to a fully connected  ANN on a non-linear dataset</span></th>
+    <th>File</th>
+    <th><span style="font-weight:bold">Purpose</span></th>
   </tr>
   <tr>
-    <td>File 1</td>
-    <td>XXX</td>
+    <td>DNN Regression</td>
+    <td>Compare the performance of a linear regression model to a fully connected  ANN on a non-linear dataset</td>
   </tr>
   <tr>
     <td>File 2</td>
